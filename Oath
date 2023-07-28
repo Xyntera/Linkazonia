@@ -3,7 +3,11 @@
 <head>
     <title>Linkazonia </title>
 </head>
-<body>
-    <h1>Welcome to Linkazonia !</h1>
+<body background="background.jpg">
+   <div align="center" style="color:#ffffff"> <img src="https://drive.google.com/file/d/1W9RZ-QLJMX3k2MKCd6fT4xQGasBA3FI1/view?usp=drivesdk">
+    <h1><b><font size="6">Abdurahman bin Ashraf</b></h1>
+    </div>
+    
+    <h1>Welcome to Xyntera - Abdurahman !</h1>
 </body>
 </html>
